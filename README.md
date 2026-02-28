@@ -1,5 +1,4 @@
-##Главный экран
-(screenshots/home.png)
+![Главный экран](screenshots/home.png)
 ![Добавление](screenshots/zametka.png)
 ![Редактирование 1](screenshots/update.png)
 ![Редактирование 2(запись изменена)](screenshots/update2.png)
