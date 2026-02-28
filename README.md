@@ -1,0 +1,5 @@
+![Главный экран](screenshots/home.png)
+![Добавление](screenshots/zametka.png)
+![Редактирование 1](screenshots/update.png)
+![Редактирование 2(запись изменена)](screenshots/update2.png)
+![Удаление (не знаю как это показать, но вот ее нет (я нажал кнопку корзины))](screenshots/delete.png)
